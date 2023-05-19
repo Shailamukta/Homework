@@ -9,7 +9,7 @@ public class AboutMe {
 	public long passportnumber = 377789999l;
 	public float height = 5.00f;
 	public double cgpa = 4.75;
-	public char asian = 'Y';
+	public char asian = 'Y'; //
 	public boolean isjavafun = true; //
 
 	public static void main(String[] args) {
