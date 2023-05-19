@@ -10,7 +10,7 @@ public class AboutMe {
 	public float height = 5.00f;
 	public double cgpa = 4.75;
 	public char asian = 'Y';
-	public boolean isjavafun = true;
+	public boolean isjavafun = true; //
 
 	public static void main(String[] args) {
 
