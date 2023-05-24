@@ -4,9 +4,9 @@ public class AboutMeTest {
 
 	public static void main(String[] args) {
 
-		AboutMe shaila = new AboutMe();// constructor in initialized
+		AboutMe shaila = new AboutMe();// constructor initialized
 
-		shaila.name = "Shaila"; // Variable initialized
+		shaila.name = "Shaila"; // Variable are initialized
 		shaila.age = 33;
 		shaila.monthlysalary = 30000;
 		shaila.yearlysalary = 23422454;
