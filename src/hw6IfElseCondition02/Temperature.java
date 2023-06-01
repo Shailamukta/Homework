@@ -12,19 +12,19 @@ public class Temperature {
 
 		if (todaysTemperature < 32) {
 
-			System.out.println("Frezzing" + todaysTemperature);
+			System.out.println("Frezzing" );
 
 		} else if (todaysTemperature < 55) {
 
-			System.out.println("Pleasant" + todaysTemperature);
+			System.out.println("Pleasant");
 
 		} else if (todaysTemperature < 73) {
 
-			System.out.println("Getting Warmer" + todaysTemperature);
+			System.out.println("Getting Warmer");
 
-		} else if (todaysTemperature >= 101) {
+		} else if (todaysTemperature > 101) {
 
-			System.out.println("Very hot" + todaysTemperature);
+			System.out.println("Very hot");
 
 		} else {
 
