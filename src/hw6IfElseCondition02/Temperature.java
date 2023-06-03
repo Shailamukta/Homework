@@ -12,7 +12,7 @@ public class Temperature {
 
 		if (todaysTemperature < 32) {
 
-			System.out.println("Frezzing" );
+			System.out.println("Frezzing");
 
 		} else if (todaysTemperature < 55) {
 
