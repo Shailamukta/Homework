@@ -4,7 +4,7 @@ package hw8Inheritance;
 /*Here line no 31-33 is a example of Multi-level inheritance.(dog-mammal-animal) is the 
  * multi-level inheritance.
  */
-//
+//Here hierarchical inheritance is from reptile,mammal,birds to animal.
 
 public class AnimalTest {
 
